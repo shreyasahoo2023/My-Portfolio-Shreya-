@@ -6,7 +6,7 @@ const Education = () => {
   const educationData = [
     {
       degree: "B.Tech (Information Technology)",
-      institution: "Calcutta Institute of Engineering & Management",
+      institution: "Techno Main Salt Lake, Kolkata ",
       year: "2023 \u2014 2027",
       status: "Ongoing",
       icon: <GraduationCap size={20} className="text-accent-blue" />,
